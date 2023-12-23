@@ -5,7 +5,7 @@
 package regexp
 
 import (
-	"matloob.io/regexp/syntax"
+	"github.com/xiaoix/regexp/syntax"
 	"reflect"
 	"strings"
 	"testing"

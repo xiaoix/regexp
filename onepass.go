@@ -6,7 +6,7 @@ package regexp
 
 import (
 	"bytes"
-	"matloob.io/regexp/syntax"
+	"github.com/xiaoix/regexp/syntax"
 	"sort"
 	"unicode"
 )

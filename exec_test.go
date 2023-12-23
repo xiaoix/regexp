@@ -11,7 +11,7 @@ import (
 	"io"
 	"os"
 	"path/filepath"
-	"matloob.io/regexp/syntax"
+	"github.com/xiaoix/regexp/syntax"
 	"strconv"
 	"strings"
 	"testing"

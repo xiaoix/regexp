@@ -6,7 +6,7 @@ package regexp_test
 
 import (
 	"fmt"
-	"matloob.io/regexp"
+	"github.com/xiaoix/regexp"
 )
 
 func Example() {

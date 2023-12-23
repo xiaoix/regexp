@@ -6,8 +6,8 @@ package regexp
 
 import (
 	"io"
-	"matloob.io/regexp/internal/input"
-	"matloob.io/regexp/syntax"
+	"github.com/xiaoix/regexp/internal/input"
+	"github.com/xiaoix/regexp/syntax"
 )
 
 // A queue is a 'sparse array' holding pending threads of execution.
